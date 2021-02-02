@@ -1,1 +1,1 @@
-# Strict-site
+# Strict
